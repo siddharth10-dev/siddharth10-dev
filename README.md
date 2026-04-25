@@ -16,6 +16,8 @@ I build scalable backend systems, analyze complex data, and render 3D scenes. I 
 ---
 *Always down to chat about scalable cloud architecture, predictive ML, or 3D rendering.*
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth10-dev&theme=react&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/siddharth10-dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth10-dev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)](https://github.com/siddharth10-dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth10-dev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth10-dev&theme=react&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" height="200" />
+</div>
