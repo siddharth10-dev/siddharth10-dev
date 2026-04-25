@@ -15,3 +15,4 @@ I build scalable backend systems, analyze complex data, and render 3D scenes. I 
 
 ---
 *Always down to chat about scalable cloud architecture, predictive ML, or 3D rendering.*
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth10-dev&theme=react&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/siddharth10-dev)
