@@ -1,25 +1,17 @@
 # ✌️ Hey, I'm Siddharth
 
-I'm a Software Engineer who treats code like a puzzle. Whether I'm architecting scalable backend systems, extracting insights from raw data, or rendering 3D scenes, I like building things that *run fast* and *look good*. 
+I build scalable backend systems, analyze complex data, and render 3D scenes. I love bridging the gap between hardcore **DSA & System Design** and the potential of **Machine Learning, Data Analytics, & Visualization**.
 
-My current obsession? Bridging the hardcore logic of **DSA and System Design** with the wild world of **Data Science, ML, and Visual Analytics**. 
+### 🚀 What I'm Doing
+- 💻 **Engineering:** SWE Intern @ **Investigen.ai**, building AI-driven backends, RAG architectures, LLM integrations, and Vector DBs.
+- 🧠 **Grinding:** Deep-diving into high-performance backend concepts, core algorithms, and System Design.
+- 📊 **Research:** Co-authored *Smart Skies*, utilizing **XGBoost** for predictive data analytics.
+- 🇬🇧 **Next Up:** Wrapping my B.Tech and heading to the UK this September for an MSc in CS.
 
-### 🚀 What I'm Up To
-- 💻 **Building:** Engineering AI-driven backend architectures, RAG systems, and vector DB solutions as a SWE Intern @ **Investigen.ai**.
-- 🧠 **Grinding:** Deep-diving into complex backend concepts, optimizing core algorithms, and leveling up in **System Design** (because scaling is cool).
-- 📊 **Researching:** Turning raw data into predictive models and data visualizations. Recently co-authored *Smart Skies*, utilizing **XGBoost** to predict Clear-Air Turbulence.
-- 🇬🇧 **Next Chapter:** Wrapping up my B.Tech and packing my bags for the UK this September for my Master's in CS.
-
-### 🛠️ The Brain Dump
-- **Backend & Arch:** Python, FastAPI, System Design, Microservices
-- **Data & AI:** Machine Learning, Data Analytics, Data Viz, LLMs, RAG
-- **Creative Stack:** Blender (3D), After Effects (VFX, Compositing)
-
-### 🎬 Beyond the Terminal
-I don't just stare at IDEs all day. When I step away from the keyboard, you can usually find me:
-- 🏋️ Hitting a heavy Push/Pull/Legs split at the gym.
-- 🍩 Messing around with nodes, lighting, and 3D renders in **Blender**.
-- 🎞️ Keyframing and rotoscoping visual effects in **After Effects**.
+### 🛠️ The Stack & Beyond
+- **Core Tech:** Python, FastAPI, React, AWS, DBs, RAG/LLMs, ML & Data Viz.
+- **Creative:** Blender (3D nodes & rendering) & After Effects (VFX).
+- **AFK:** Hitting a heavy Push/Pull/Legs split at the gym. 🏋️
 
 ---
-*Drop a message if you want to talk about scalable backend architectures, predictive ML models, or how long it takes to render a 10-second animation.* ☕
+*Always down to chat about scalable cloud architecture, predictive ML, or 3D rendering.*
