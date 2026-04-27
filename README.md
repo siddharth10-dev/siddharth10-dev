@@ -2,13 +2,13 @@
 
 I build scalable backend systems, analyze complex data, and render 3D scenes. I love bridging the gap between hardcore **DSA & System Design** and the potential of **Machine Learning, Data Analytics, & Visualization**.
 
-### 🚀 What I'm Doing
-- 💻 **Engineering:** SWE Intern @ **Investigen.ai**, building AI-driven backends, RAG architectures, LLM integrations, and Vector DBs.
-- 🧠 **Grinding:** Deep-diving into high-performance backend concepts, core algorithms, and System Design.
-- 📊 **Research:** Co-authored *Smart Skies*, utilizing **XGBoost** for predictive data analytics.
-- 🇬🇧 **Next Up:** Wrapping my B.Tech and heading to the UK this September for an MSc in CS.
+###  What I'm Doing
+-  **Engineering:** SWE Intern @ **Investigen.ai**, building AI-driven backends, RAG architectures, LLM integrations, and Vector DBs.
+-  **Grinding:** Deep-diving into high-performance backend concepts, core algorithms, and System Design.
+-   **Research:** Co-authored *Smart Skies*, utilizing **XGBoost** for predictive data analytics.
+-  **Next Up:** Wrapping my B.Tech and heading to the UK this September for an MSc in CS.
 
-### 🛠️ The Stack & Beyond
+###  The Stack & Beyond
 - **Core Tech:** Python, FastAPI, React, AWS, DBs, RAG/LLMs, ML & Data Viz.
 - **Creative:** Blender (3D nodes & rendering) & After Effects (VFX).
 - **AFK:** Hitting a heavy Push/Pull/Legs split at the gym. 🏋️
