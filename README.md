@@ -1,23 +1,48 @@
-# ✌️ Hey, I'm Siddharth
+# Hi, I'm Siddharth
 
-I build scalable backend systems, analyze complex data, and render 3D scenes. I love bridging the gap between hardcore **DSA & System Design** and the potential of **Machine Learning, Data Analytics, & Visualization**.
+I'm a Computer Science graduate passionate about backend engineering, AI, and building software that solves practical problems.
 
-###  What I'm Doing
--  **Engineering:** SWE Intern @ **Investigen.ai**, building AI-driven backends, RAG architectures, LLM integrations, and Vector DBs.
--  **Grinding:** Deep-diving into high-performance backend concepts, core algorithms, and System Design.
--   **Research:** Co-authored *Smart Skies*, utilizing **XGBoost** for predictive data analytics.
+My interests lie in designing scalable backend systems, developing AI-powered applications, and continuously learning about Machine Learning, Deep Learning, Data Analytics, and System Design through hands-on projects.
 
+## Current Projects
 
-###  The Stack & Beyond
-- **Core Tech:** Python, FastAPI, React, AWS, DBs, RAG/LLMs, ML & Data Viz.
-- **Creative:** Blender (3D nodes & rendering) & After Effects (VFX).
-- **AFK:** Hitting a heavy Push/Pull/Legs split at the gym. 🏋️
+* **TicketFlow AI** – An AI-powered support ticket automation platform built with React, FastAPI, PostgreSQL, Docker, and Gemini AI.
+* Exploring agentic AI workflows, backend architecture, and modern AI systems through personal projects.
+
+## Tech Stack
+
+**Languages**
+Python • Java • SQL • JavaScript
+
+**Backend**
+FastAPI • REST APIs • SQLAlchemy
+
+**Frontend**
+React
+
+**Databases**
+PostgreSQL • SQLite
+
+**AI & Data**
+Machine Learning • Deep Learning • Data Analytics • Gemini API • RAG • Vector Databases
+
+**Tools**
+Docker • Git • GitHub • Alembic • Render • Neon
+
+## Interests
+
+Backend Engineering • Artificial Intelligence • Machine Learning • Deep Learning • Data Analytics • System Design • Distributed Systems • Cloud Technologies
 
 ---
-*Always down to chat about scalable cloud architecture, predictive ML, or 3D rendering.*
+
+I'm always looking to learn, build, and collaborate on projects that combine backend engineering with AI.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth10-dev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth10-dev&theme=react&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" height="200" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth10-dev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth10-dev&theme=react&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" height="200" />
+
 </div>
